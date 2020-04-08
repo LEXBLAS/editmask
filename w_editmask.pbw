@@ -1,0 +1,6 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "app_editmask.pbt";
+@end;
+DefaultTarget "app_editmask.pbt";
+DefaultRemoteTarget "app_editmask.pbt";
